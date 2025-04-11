@@ -1,3 +1,3 @@
 # Demo
 First Git Repository.
-Author - Utsav Bhattarai
+Author - Utsav Bhattarai ( samiksha poudel)
